@@ -1,0 +1,29 @@
+body {
+  margin: 20px auto;
+  width: 600px;
+}
+
+form#dashboard-form {
+  width: 100%;
+}
+
+input#http-url {
+
+}
+
+select#http-action {
+
+}
+
+#http-body {
+  width: 100%;
+  height: 60px;
+}
+
+div#http-response {
+  width: 100%;
+  clear: both;
+  background-color: #ccc;
+  padding: 10px;
+  word-wrap: break-word;
+}
